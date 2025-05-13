@@ -1,0 +1,7 @@
+# @package _global_
+
+defaults:
+  - /algo: dagger
+  - /env: motion_tracking_distill
+
+experiment_name: TEST_Motion_Tracking
